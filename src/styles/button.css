@@ -1,0 +1,15 @@
+.btn {
+ padding: 8px 16px;
+ border: 0;
+ /* background-color: #ff5722; */
+ color: #fff;
+ border-radius: 4px;
+ cursor: pointer;
+}
+.btn:hover {
+ /* background-color: #ff5722; */
+ opacity: 0.8;
+}
+.btn:active {
+ box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
